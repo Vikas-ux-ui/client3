@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="client2/client2.csproj">
+    <Deploy />
+  </Project>
+</Solution>
